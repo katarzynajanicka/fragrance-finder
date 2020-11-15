@@ -32,11 +32,23 @@ Output data: fragrance_finder.ipynb (Jupyter notebook)
 
 **Project structure**
 
-![](./screens/structure.png)
+![](./screenshots/structure.png)
 
 **Data structure**
 
+![](./screenshots/fields.png)
 
+![](./screenshots/popular.png)
+
+**Findings**
+
+![](./screenshots/fuzzywuzzy.png)
+
+![](./screenshots/step0_angel.png)
+
+![](./screenshots/step1_angel.png)
+
+![](./screenshots/step2_angel.png)
 
 ## Status
 Project is in progress.
