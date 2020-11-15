@@ -38,11 +38,15 @@ Output data: fragrance_finder.ipynb (Jupyter notebook)
 
 ![](./screenshots/fields.png)
 
+**Most popular fragrances**
+
 ![](./screenshots/popular.png)
 
 **Findings**
 
 ![](./screenshots/fuzzywuzzy.png)
+
+**Angel Mugler for women**
 
 ![](./screenshots/step0_angel.png)
 
