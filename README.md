@@ -54,6 +54,58 @@ Output data: fragrance_finder.ipynb (Jupyter notebook)
 
 ![](./screenshots/step2_angel.png)
 
+**Alien Mugler for women**
+
+**Coco Mademoiselle Chanel for women**
+
+![](./screenshots/coco_mademoiselle.png)
+
+**Light Blue Dolce&Gabbana for women**
+
+![](./screenshots/light_blue.png)
+
+**Hypnotic Poison Christian Dior for women**
+
+![](./screenshots/poison.png)
+
+**J'adore Christian Dior for women**
+
+![](./screenshots/jadore.png)
+
+**Flowerbomb Viktor&Rolf for women**
+
+![](./screenshots/flowerbomb.png)
+
+**Euphoria Calvin Klein for women**
+
+**Black Orchid Tom Ford for women**
+
+![](./screenshots/black_orchid.png)
+
+**Lolita Lempicka Lolita Lempicka for women**
+
+![](./screenshots/lolita_lempicka.png)
+
+**La Vie Est Belle Lancome for women**
+
+![](./screenshots/viebelle.png)
+
+**Shalimar Eau de Parfum Guerlain for women**
+
+![](./screenshots/shalimar.png)
+
+**Chanel No 5 Parfum Chanel for women**
+
+![](./screenshots/chanelno5.png)
+
+**Twilly d’Hermès Hermès for women**
+
+![](./screenshots/twilly.png)
+
+**Knot Eau Absolue Bottega Veneta for women**
+
+![](./screenshots/knot.png)
+
 ## Status
 Project is in progress.
 
