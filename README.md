@@ -56,6 +56,8 @@ Output data: fragrance_finder.ipynb (Jupyter notebook)
 
 **Alien Mugler for women**
 
+![](./screenshots/alien.png)
+
 **Coco Mademoiselle Chanel for women**
 
 ![](./screenshots/coco_mademoiselle.png)
@@ -77,6 +79,8 @@ Output data: fragrance_finder.ipynb (Jupyter notebook)
 ![](./screenshots/flowerbomb.png)
 
 **Euphoria Calvin Klein for women**
+
+![](./screenshots/euphoria.png)
 
 **Black Orchid Tom Ford for women**
 
@@ -107,6 +111,4 @@ Output data: fragrance_finder.ipynb (Jupyter notebook)
 ![](./screenshots/knot.png)
 
 ## Status
-Project is in progress.
-
- 
+Project is finished.
