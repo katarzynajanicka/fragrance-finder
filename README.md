@@ -1,8 +1,7 @@
 # fragrance-finder
 Content-based recommendation system for female fragrances
 
-<img src="https://img.shields.io/badge/python-3.8.2 -brightgreen"> <img src='https://img.shields.io/badge/fuzzywuzzy-0.18.0-blue'>  <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src="https://img.shields.io/badge/seaborn-0.11.0 -blue"> <br>
-<img src="https://img.shields.io/badge/fuzzy-string--matching-ff69b4"> <img src="https://img.shields.io/badge/recommendation-system-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4">
+<img src="https://img.shields.io/badge/python-3.8.2 -brightgreen"> <img src='https://img.shields.io/badge/fuzzywuzzy-0.18.0-blue'>  <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src="https://img.shields.io/badge/seaborn-0.11.0 -blue"> <img src="https://img.shields.io/badge/fuzzy-string--matching-ff69b4"> <img src="https://img.shields.io/badge/recommendation-system-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4">
 
 ## Table of contents
 * [General info](#general-info)
