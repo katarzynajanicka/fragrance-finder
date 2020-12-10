@@ -11,7 +11,7 @@ Accords-based recommendation system for female fragrances
 * [Status](#status)
 
 ## General info
-Content-based recommendation system on 39.7K female fragrances.
+Accords-based recommendation system on 39.7K female fragrances.
 
 ## Technologies
 Project is created with Python - version: 3.8.2.
