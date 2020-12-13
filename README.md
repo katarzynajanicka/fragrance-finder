@@ -14,9 +14,12 @@ Accords-based recommendation system for female fragrances
 Accords-based recommendation system on 39.7K female fragrances.
 
 This project is part of my fragrance exploration series:
-1. K-means++ clustering on fragrance accords - https://github.com/katarzynajanicka/fragrance-clustering
-2. Agglomerative hierarchical clustering on 39.7K female fragrances - https://github.com/katarzynajanicka/agglomerative-fragrance-clustering
-3. Accords-based recommendation system for female fragrances - https://github.com/katarzynajanicka/fragrance-finder
+1. K-means++ clustering on fragrance accords
+https://github.com/katarzynajanicka/fragrance-clustering
+2. Agglomerative hierarchical clustering on 39.7K female fragrances
+https://github.com/katarzynajanicka/agglomerative-fragrance-clustering
+3. Accords-based recommendation system for female fragrances
+https://github.com/katarzynajanicka/fragrance-finder
 
 ## Technologies
 Project is created with Python - version: 3.8.2.
